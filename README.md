@@ -1,7 +1,7 @@
 # Javier González Hernández
 
-# PRÁCTICAS 
+# __PRÁCTICAS__ 
 
-# DESARROLLO DE SISTEMAS INFORMÁTICOS
+## DESARROLLO DE SISTEMAS INFORMÁTICOS
 
-[1. Tareas iniciales](https://github.com/berkanrhdz/tareas-iniciales-berkan-javier)
+[1. Tareas iniciales.](https://github.com/berkanrhdz/tareas-iniciales-berkan-javier)
